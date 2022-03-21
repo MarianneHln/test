@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin&family=Lobster&display=swap');
+@import url('banner.css');
+@import url('buttons.css');
+@import url('cards.css');
+@import url('footer.css');
+
+body {
+
+margin: 0;
+font-family: 'Libre Franklin', sans-serif;
+background-color: rgb(200, 200, 200);
+
+}
+
+h1,h2,h3 {
+
+font-family: 'Lobster', cursive;
+
+}
+
+a {
+
+text-decoration: none;
+
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+
+	}
